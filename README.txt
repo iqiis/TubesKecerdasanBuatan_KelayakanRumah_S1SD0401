@@ -52,4 +52,5 @@ Balqis Awaluna Rahmah (103132430011)
 
 Peran Anggota Kelompok:
 - Calya Alesita P.I, berperan dalam pembuatan desain poster dan menganalisis hasil dari program yang telah dijalankan.
-- Balqis Awaluna Rahmah, berperan dalam mencari dan menyiapkann dataset yang digunakan, serta mengembangkan dan membuat kode program. 
+- Balqis Awaluna Rahmah, berperan dalam mencari dan menyiapkan dataset yang digunakan, serta membuat kode program. 
+
