@@ -48,7 +48,6 @@ Output berisi informasi:
 
 Penulis:
 Calya Alesita Putri Irawan (103132400020)
-
 Balqis Awaluna Rahmah (103132430011)
 
 Peran Anggota Kelompok:
