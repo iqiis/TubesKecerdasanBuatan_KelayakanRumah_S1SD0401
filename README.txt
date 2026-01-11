@@ -48,4 +48,9 @@ Output berisi informasi:
 
 Penulis:
 Calya Alesita Putri Irawan (103132400020)
+
 Balqis Awaluna Rahmah (103132430011)
+
+Peran Anggota Kelompok:
+- Calya Alesita P.I, berperan dalam pembuatan desain poster dan menganalisis hasil dari program yang telah dijalankan.
+- Balqis Awaluna Rahmah, berperan dalam mencari dan menyiapkann dataset yang digunakan, serta mengembangkan dan membuat kode program. 
